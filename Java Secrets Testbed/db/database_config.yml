@@ -1,0 +1,1 @@
+database_url: postgres://user:password@host:5432/database
